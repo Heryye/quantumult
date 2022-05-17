@@ -1,0 +1,16 @@
+# quantumult
+My first repository on GitHub
+#港台番剧自动切换
+
+# Bilibili 哔哩哔哩 港澳台番剧
+host,api.biliapi.com,港台番剧
+host,api.biliapi.net,港台番剧
+host,api.bilibili.com,港台番剧
+host,app.biliapi.com,港台番剧
+host,app.biliapi.net,港台番剧
+host,app.bilibili.com,港台番剧
+host,grpc.biliapi.net,港台番剧
+host,m.bilibili.com,港台番剧
+host,upos-hz-mirrorakam.akamaized.net,港台番剧
+host,www.bilibili.com,港台番剧
+host-keyword,cn-hk-eq-bcache-,港台番剧
